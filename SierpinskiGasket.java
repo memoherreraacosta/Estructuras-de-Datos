@@ -24,7 +24,7 @@ public class SierpinskiGasket extends JFrame{
 		this.setLocation(this.getX()/2, this.getY()/2);
 		
 		this.a= new Point(20,380);
-		this.b= new Point(620,180);
+		this.b= new Point(620,380);
 		this.c= new Point(320,70);
 	}
 	
