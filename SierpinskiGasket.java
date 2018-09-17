@@ -10,7 +10,7 @@ public class SierpinskiGasket extends JFrame{
 	 */
 	private static final long serialVersionUID = 1L;
 	private int level;
-	private Point a= new Point(20,380),
+	private Point 		  a= new Point(20,380),
 				  b= new Point(620,180),
 				  c= new Point(320,70);
 
@@ -59,5 +59,4 @@ public class SierpinskiGasket extends JFrame{
 	public static void main(String []args) {
 		new SierpinskiGasket();	
 	}
-	
 }
